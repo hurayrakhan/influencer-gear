@@ -94,11 +94,14 @@
     width: 85%;
     margin: 0px auto;
 }
+.section-2-title{
+    text-align: center;
+}
 .cards{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
-    width: 100%;
+    margin: 50px 0px;
 
 }
 .card{
@@ -109,4 +112,12 @@
 }
 .card-img{
     width: 100%;
+}
+#section-2-btn{
+    border: none;
+    color: rgb(224, 44, 109);
+    background-color: white;
+    font-size: 16px;
+    font-weight: 700;
+    
 }
