@@ -91,7 +91,7 @@
     margin: 100px auto;
 }
 .section-2{
-    width: 85%;
+    width: 80%;
     margin: 0px auto;
 }
 .section-2-title{
@@ -121,7 +121,22 @@
     font-weight: 700;
 
 }
+.feature{
+    display: flex;
+    width: 85%;
+    margin: 60px auto;
+    gap: 100px;
+    align-items: center;
 
+}
+.feature-btn{
+    border: none;
+    color: white;
+    background-color: rgb(224, 44, 109);
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 25px;
+}
 
 /* responsive media query */
 
