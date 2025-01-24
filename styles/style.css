@@ -8,7 +8,10 @@
 }
 
   
-
+body{
+    margin: 0px;
+    padding: 0px;
+}
 
 /* shared styles */
 .flex{
@@ -136,6 +139,20 @@
     font-size: 16px;
     font-weight: 700;
     padding: 10px 25px;
+}
+
+
+footer{
+    text-align: center;
+    padding: 30px 0px;
+    background-color: rgb(10, 8, 38);
+    color: white;
+
+}
+.icon{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgb(31, 30, 42);
 }
 
 /* responsive media query */
