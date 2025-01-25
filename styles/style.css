@@ -119,6 +119,9 @@ body{
 .card-img{
     width: 100%;
 }
+.btn-2{
+    text-align: right;
+}
 #section-2-btn{
     border: none;
     color: rgb(224, 44, 109);
